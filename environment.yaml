@@ -1,0 +1,19 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - seaborn
+  - gzip
+  - pickle
+  - time
+  - typing
+  - eli5
+  - numpy
+  - pandas
+  - catboost
+  - category_encoders
+  - lightgbm
+  - matplotlib
+  - scikit-learn
+  - xgboost
