@@ -1,5 +1,5 @@
 ################################################################################
-0
+Row: 424928
 Prediction: 0.36000000000000004
 Bias (average prediction): [[0.99871108 0.00128892]
  [0.99871108 0.00128892]
@@ -23,7 +23,7 @@ Feature Contributions:
 4            generator__ffg__dest_is_bigger_org       0.000058
 0    generator__ffg__oldbalanceOrg_amount_ratio       0.000884
 ################################################################################
-1
+Row: 1021951
 Prediction: 0.2700000000000002
 Bias (average prediction): [[0.99871108 0.00128892]
  [0.99871108 0.00128892]
@@ -47,7 +47,7 @@ Feature Contributions:
 7          preprocessor__imputer__oldbalanceOrg       0.000294
 0    generator__ffg__oldbalanceOrg_amount_ratio       0.001176
 ################################################################################
-2
+Row: 559979
 Prediction: 0.35000000000000003
 Bias (average prediction): [[0.99871108 0.00128892]
  [0.99871108 0.00128892]
@@ -71,7 +71,7 @@ Feature Contributions:
 4            generator__ffg__dest_is_bigger_org       0.000057
 5                          generator__cat__type       0.000118
 ################################################################################
-3
+Row: 296686
 Prediction: 0.4
 Bias (average prediction): [[0.99871108 0.00128892]
  [0.99871108 0.00128892]
@@ -94,3 +94,99 @@ Feature Contributions:
 5                          generator__cat__type       0.000117
 7          preprocessor__imputer__oldbalanceOrg       0.000247
 0    generator__ffg__oldbalanceOrg_amount_ratio       0.000924
+################################################################################
+Row: 291459
+Prediction: 0.32000000000000023
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+10        preprocessor__imputer__newbalanceDest      -0.331068
+6                 preprocessor__imputer__amount      -0.283537
+3   generator__ffg__newbalanceDest_amount_ratio      -0.053381
+0    generator__ffg__oldbalanceOrg_amount_ratio      -0.006244
+7          preprocessor__imputer__oldbalanceOrg      -0.001372
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.001119
+4            generator__ffg__dest_is_bigger_org      -0.000949
+9         preprocessor__imputer__oldbalanceDest      -0.000420
+5                          generator__cat__type      -0.000319
+8         preprocessor__imputer__newbalanceOrig      -0.000155
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000149
+################################################################################
+Row: 1911
+Prediction: 0.37
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+7          preprocessor__imputer__oldbalanceOrg      -0.209622
+10        preprocessor__imputer__newbalanceDest      -0.158117
+6                 preprocessor__imputer__amount      -0.148123
+0    generator__ffg__oldbalanceOrg_amount_ratio      -0.079732
+3   generator__ffg__newbalanceDest_amount_ratio      -0.029376
+4            generator__ffg__dest_is_bigger_org      -0.003386
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.000153
+8         preprocessor__imputer__newbalanceOrig      -0.000153
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000147
+9         preprocessor__imputer__oldbalanceDest      -0.000039
+5                          generator__cat__type       0.000136
+################################################################################
+Row: 2242699
+Prediction: 0.36000000000000015
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+6                 preprocessor__imputer__amount      -0.341027
+10        preprocessor__imputer__newbalanceDest      -0.262236
+3   generator__ffg__newbalanceDest_amount_ratio      -0.028390
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.002385
+7          preprocessor__imputer__oldbalanceOrg      -0.002169
+4            generator__ffg__dest_is_bigger_org      -0.000856
+0    generator__ffg__oldbalanceOrg_amount_ratio      -0.000687
+5                          generator__cat__type      -0.000408
+9         preprocessor__imputer__oldbalanceDest      -0.000207
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000187
+8         preprocessor__imputer__newbalanceOrig      -0.000159
+################################################################################
+Row: 2983493
+Prediction: 1.0
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+8         preprocessor__imputer__newbalanceOrig      -0.000145
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000138
+10        preprocessor__imputer__newbalanceDest      -0.000007
+3   generator__ffg__newbalanceDest_amount_ratio       0.000025
+9         preprocessor__imputer__oldbalanceDest       0.000027
+4            generator__ffg__dest_is_bigger_org       0.000058
+2   generator__ffg__oldbalanceDest_amount_ratio       0.000089
+5                          generator__cat__type       0.000118
+6                 preprocessor__imputer__amount       0.000119
+7          preprocessor__imputer__oldbalanceOrg       0.000251
+0    generator__ffg__oldbalanceOrg_amount_ratio       0.000892
