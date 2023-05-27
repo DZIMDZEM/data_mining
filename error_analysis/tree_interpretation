@@ -1,0 +1,96 @@
+################################################################################
+0
+Prediction: 0.36000000000000004
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+9         preprocessor__imputer__oldbalanceDest      -0.156176
+6                 preprocessor__imputer__amount      -0.140242
+3   generator__ffg__newbalanceDest_amount_ratio      -0.139556
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.102506
+10        preprocessor__imputer__newbalanceDest      -0.096050
+5                          generator__cat__type      -0.004882
+8         preprocessor__imputer__newbalanceOrig      -0.000145
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000138
+7          preprocessor__imputer__oldbalanceOrg       0.000042
+4            generator__ffg__dest_is_bigger_org       0.000058
+0    generator__ffg__oldbalanceOrg_amount_ratio       0.000884
+################################################################################
+1
+Prediction: 0.2700000000000002
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.167291
+3   generator__ffg__newbalanceDest_amount_ratio      -0.157175
+10        preprocessor__imputer__newbalanceDest      -0.153380
+6                 preprocessor__imputer__amount      -0.129374
+9         preprocessor__imputer__oldbalanceDest      -0.118839
+5                          generator__cat__type      -0.003951
+8         preprocessor__imputer__newbalanceOrig      -0.000124
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000103
+4            generator__ffg__dest_is_bigger_org       0.000056
+7          preprocessor__imputer__oldbalanceOrg       0.000294
+0    generator__ffg__oldbalanceOrg_amount_ratio       0.001176
+################################################################################
+2
+Prediction: 0.35000000000000003
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+6                 preprocessor__imputer__amount      -0.134557
+10        preprocessor__imputer__newbalanceDest      -0.098638
+7          preprocessor__imputer__oldbalanceOrg      -0.095217
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.095006
+9         preprocessor__imputer__oldbalanceDest      -0.092658
+0    generator__ffg__oldbalanceOrg_amount_ratio      -0.090416
+3   generator__ffg__newbalanceDest_amount_ratio      -0.042111
+8         preprocessor__imputer__newbalanceOrig      -0.000145
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000138
+4            generator__ffg__dest_is_bigger_org       0.000057
+5                          generator__cat__type       0.000118
+################################################################################
+3
+Prediction: 0.4
+Bias (average prediction): [[0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]
+ [0.99871108 0.00128892]]
+Feature Contributions:
+                                        feature  contributions
+6                 preprocessor__imputer__amount      -0.154935
+2   generator__ffg__oldbalanceDest_amount_ratio      -0.130140
+10        preprocessor__imputer__newbalanceDest      -0.120055
+3   generator__ffg__newbalanceDest_amount_ratio      -0.116136
+9         preprocessor__imputer__oldbalanceDest      -0.078499
+8         preprocessor__imputer__newbalanceOrig      -0.000153
+1   generator__ffg__newbalanceOrig_amount_ratio      -0.000139
+4            generator__ffg__dest_is_bigger_org       0.000058
+5                          generator__cat__type       0.000117
+7          preprocessor__imputer__oldbalanceOrg       0.000247
+0    generator__ffg__oldbalanceOrg_amount_ratio       0.000924
